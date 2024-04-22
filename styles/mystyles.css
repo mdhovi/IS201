@@ -9,6 +9,11 @@ body {
     padding-left: 10%;
     padding-right: 10%;
 
+.mainstyl {
+    font-size: 18px;
+    text-align: left;
+}
+
 .underline {text-decoration: underline;}
 
 .bold {font-weight: bold;}
@@ -32,5 +37,5 @@ ul {
 }
 
 ol {
-    font-weight: normal;}
-    
+    font-weight: normal;
+}
