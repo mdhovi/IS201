@@ -32,5 +32,7 @@ li {
 .italics {font-style: italic;}
 
 .header{
-
+    text-align: center;
+    font-size: 30px;
+    margin-left: 220px;
 }
